@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 4b49a9b326f2b8141b629f0eb7250313
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MetroBots Chrome
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85f740dd7fc16304698561965d59506b, type: 3}
+  - {fileID: 12800000, guid: d22d23c1421bcb045b321a60b7e0a952, type: 3}
+  - {fileID: 12800000, guid: 3a1c2a8f3a614a143940a811d105dec1, type: 3}
+  - {fileID: 12800000, guid: 02f83f5338caa6840aee3aef7d71cac7, type: 3}
+  - {fileID: 12800000, guid: 840da42330652f740837ba4231fe33cf, type: 3}
+  - {fileID: 12800000, guid: 4399bebd4eee65b458d1bf0d7631ef08, type: 3}
+  - {fileID: 12800000, guid: f1a6edca37855d748961ca7cc07a3710, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

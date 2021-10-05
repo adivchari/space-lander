@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes 1/Welcome Page.unity
+    guid: 5f1f48b2c71ce134db64987018a04b6e
+  - enabled: 1
+    path: Assets/Scenes 1/Flyover.unity
+    guid: a4816a95927d72741a359c11544c6bc8
+  - enabled: 1
+    path: Assets/Scenes 1/Under.unity
+    guid: 34cb09e9b3f1d5c4e93246e01dad938f
+  - enabled: 1
+    path: Assets/Scenes 1/Swing.unity
+    guid: 01287a3c8e2174d4f86056453a2685dc
+  - enabled: 1
+    path: Assets/Scenes 1/Swing Land.unity
+    guid: 1dff8ca266e9a0d4999e2df1ea8ebd57
+  - enabled: 1
+    path: Assets/Scenes 1/Finish.unity
+    guid: 2454cca922239804ea5fa25d534d3d50
+  m_configObjects: {}
